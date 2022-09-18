@@ -1,0 +1,69 @@
+*{
+text-decoration: none;
+font-family: 'Times New Roman', Times, serif;
+list-style: none;
+
+}
+ .sign_up{
+  border: 2px solid;
+  background-color:rgb(49, 49, 1) ;
+  border-bottom-left-radius: 40%;
+  border-bottom-right-radius: 40%;
+}
+.user_from{
+  padding: 2% 20%;
+  text-align: center;
+  color: aliceblue;
+}
+.list-group{
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+.list-group :hover{
+  
+  background-color: rgb(253, 145, 4);
+  border: 2px solid orange;
+ border-top-right-radius: 30%;
+ border-bottom-right-radius: 30%;
+  color: #fff;
+}
+.list-group li {
+  list-style: none;
+  padding: 5%;
+}
+.right-sideadmin{
+  padding-top: 2px;
+  height: 100vh;
+  border: 2px solid #fff;
+  border-top-right-radius: 20%;
+  border-bottom-right-radius: 20%;
+  box-shadow: 34px 0px #f0eded;
+
+}
+.top-con{
+  margin-right: 15px;
+}
+.navbar{
+  background-color:orange;
+}
+.top-user{
+  padding: 5px 5px;
+}
+
+.avatar {
+  vertical-align: middle;
+  width: 60%;
+  height: 60%;
+  border-radius: 50%;
+}
+.filed-con{
+  background-color: rgb(245, 234, 234);
+  border-bottom-left-radius: 30%;
+  border-bottom-right-radius: 30%;
+  box-shadow: 5px 0px 5px 5px #fcf9f9;
+}
+.bottam-slide{
+  background-color: rgb(228, 238, 238);
+  
+
+}
